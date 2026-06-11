@@ -16,7 +16,23 @@
 
 I'm a software engineering student at **HiLCoE School of Computer Science and Technology** in Addis Ababa, Ethiopia. I build clean, purposeful digital products — from full-stack web applications to real-world client sites.
 
-My focus right now is on **full-stack development** and **applied entrepreneurship**, turning ideas into working products. I'm also drawn to **cybersecurity** — specifically the challenge of building safer, more resilient systems.
+My focus right now is on **full-stack development** and **applied entrepreneurship**, turning ideas into working products. I'm also actively learning **cybersecurity** — documenting every step of a structured 90-day curriculum.
+
+---
+
+### 🔐 90 Days of Cybersecurity — Live Log
+
+I'm following [MyFirstHack's](https://www.linkedin.com/company/myfirsthack/) 90-day path from beginner to cybersecurity foundations. 30 minutes a day, one concept at a time. Documenting the whole thing publicly.
+
+| Day | Topic | Key Takeaway |
+|-----|-------|--------------|
+| 01 | Data Breaches & HaveIBeenPwned | Checked my own email — no breaches found. More people should do this. |
+| 02 | The 4 Learning Traps | Most people don't quit because it's hard — they quit because they set themselves up wrong. Consistency beats intensity. Every time. |
+| 03 | Personal Security Audit | Completed my first formal 5-step security audit. Found password reuse across email accounts. Enabled 2FA on primary email. Your email is the master key to everything else you own online. |
+| 04 | Network Activity & Running Processes | Watched my laptop connect to servers I never consciously initiated. Most people use computers like magic boxes — cybersecurity people treat them as systems they can reason about. |
+| ... | ... | ... |
+
+> Follow along on [LinkedIn](https://linkedin.com/in/oliyad-beto-108540385) where I post daily updates. If you're in cyber or also learning — let's connect.
 
 ---
 
@@ -53,7 +69,7 @@ My focus right now is on **full-stack development** and **applied entrepreneursh
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**Benti Fluha Spa & Hotel**](#) | Full website for a natural hot spring spa and hotel in Addis Ababa. Built with first HTML, CSS and Javascript then upgraded by using Next.js App Router, responsive design, and a luxury aesthetic. | Next.js, Tailwind CSS |
+| [**Benti Fluha Spa & Hotel**](#) | Full website for a natural hot spring spa and hotel in Addis Ababa. Built with Next.js App Router, responsive design, and a luxury aesthetic. | Next.js, Tailwind CSS |
 | [**Portfolio Website**](https://olibbeto.github.io/Updated-Portfolio/) | Personal portfolio with particle animations, dark theme, and project showcase. | HTML, CSS, JavaScript |
 | [**Bank Management System**](#) | Desktop banking app with full CRUD operations and user management. | C#, MySQL |
 | [**Snake Game**](#) | Classic Snake game with database-backed leaderboard and persistent high scores. | Java, Swing/AWT, JDBC, MySQL |
@@ -77,10 +93,10 @@ My focus right now is on **full-stack development** and **applied entrepreneursh
 
 ### Currently
 
-- 🎓 Learning at HiLCoE 
+- 🎓 Learning Software Engineering at HILCOE 
 - 🏗️ Building the **Benti Fluha** website for a family-owned spa and hotel
+- 🔐 30 days into a **90-day cybersecurity learning challenge** with MyFirstHack
 - 📖 Deepening skills in **Next.js**, **MongoDB**, and system design
-- 🔐 Interested in how cybersecurity intersects with product development
 
 ---
 

@@ -26,10 +26,11 @@ I'm following [MyFirstHack's](https://www.linkedin.com/company/myfirsthack/) 90-
 
 | Day | Topic | Key Takeaway |
 |-----|-------|--------------|
-| 01 | Data Breaches & HaveIBeenPwned | Checked my own email — no breaches found. More people should do this. |
-| 02 | The 4 Learning Traps | Most people don't quit because it's hard — they quit because they set themselves up wrong. Consistency beats intensity. Every time. |
-| 03 | Personal Security Audit | Completed my first formal 5-step security audit. Found password reuse across email accounts. Enabled 2FA on primary email. Your email is the master key to everything else you own online. |
+| 01 | Data Breaches & HaveIBeenPwned | Checked my own email, no breaches found. More people should do this. |
+| 02 | The 4 Learning Traps | Most people don't quit because it's hard they quit because they set themselves up wrong. Consistency beats intensity. Every time. |
+| 03 | Personal Security Audit | Completed my first formal 5 step security audit. Found password reuse across email accounts. Enabled 2FA on primary email. Your email is the master key to everything else you own online. |
 | 04 | Network Activity & Running Processes | Watched my laptop connect to servers I never consciously initiated. Most people use computers like magic boxes — cybersecurity people treat them as systems they can reason about. |
+| 05 | How Websites Actually Load | A single news article loaded 247 files from ~20 domains, many dedicated to analytics and tracking. Every website visit passes through multiple stages (DNS, TCP, TLS, HTTP, rendering), and each stage presents opportunities for monitoring, optimization, or attack. Understanding the web is very different from simply using it. |
 | ... | ... | ... |
 
 > Follow along on [LinkedIn](https://linkedin.com/in/oliyad-beto-108540385) where I post daily updates. If you're in cyber or also learning — let's connect.

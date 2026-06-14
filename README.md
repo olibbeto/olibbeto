@@ -14,7 +14,7 @@
 
 ### About Me
 
-I'm a software engineering student at **HiLCoE School of Computer Science and Technology** in Addis Ababa, Ethiopia. I build clean, purposeful digital products — from full-stack web applications to real-world client sites.
+I'm a software engineering student at **HiLCoE School of Computer Science and Technology** in Addis Ababa, Ethiopia. I build clean, purposeful digital products from full-stack web applications to real-world client sites.
 
 My focus right now is on **full-stack development** and **applied entrepreneurship**, turning ideas into working products. I'm also actively learning **cybersecurity** — documenting every step of a structured 90-day curriculum.
 

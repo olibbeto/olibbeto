@@ -71,7 +71,7 @@ I'm following [MyFirstHack's](https://www.linkedin.com/company/myfirsthack/) 90-
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**Benti Fluha Spa & Hotel**](#) | Full website for a natural hot spring spa and hotel in Addis Ababa. Built with Next.js App Router, responsive design, and a luxury aesthetic. | Next.js, Tailwind CSS |
-| [**Portfolio Website**](https://olibbeto.github.io/Updated-Portfolio/) | Personal portfolio with particle animations, dark theme, and project showcase. | HTML, CSS, JavaScript |
+| [**Portfolio Website**](https://olibbeto.github.io/Portfolio3.0/) | Personal portfolio with particle animations, dark theme, and project showcase. | HTML, CSS, JavaScript |
 | [**Bank Management System**](#) | Desktop banking app with full CRUD operations and user management. | C#, MySQL |
 | [**Snake Game**](#) | Classic Snake game with database-backed leaderboard and persistent high scores. | Java, Swing/AWT, JDBC, MySQL |
 | [**E-Commerce Website**](#) | Responsive product listing and cart UI. | HTML, CSS, JavaScript |

@@ -32,7 +32,7 @@ I'm following [MyFirstHack's](https://www.linkedin.com/company/myfirsthack/) 90-
 | 04 | Network Activity & Running Processes | Watched my laptop connect to servers I never consciously initiated. Most people use computers like magic boxes — cybersecurity people treat them as systems they can reason about. |
 | 05 | How Websites Actually Load | A single news article loaded 247 files from ~20 domains, many dedicated to analytics and tracking. Every website visit passes through multiple stages (DNS, TCP, TLS, HTTP, rendering), and each stage presents opportunities for monitoring, optimization, or attack. Understanding the web is very different from simply using it. |
 | 06 | IP addresses | every device on the internet has a public IP address | and that address leaks your rough location, your ISP, and what kind of connection you're on, instantly, to every website you visit. No clicks. No permissions. Just the act of connecting.
-| 07 | Reflection of the course
+| 07 | DNS | Reflection of the course
 | 08 | Passwords | A 20-character lowercase only is genuinely, mathematically stronger than an 8 character complex password like `P@ssw0rd!` Because it would take time for attackers to crack the password | Length beats complexity.
 | 09 | phishing and defending against it | The attack involved in roughly 70-90% of successful cyberattacks on earth. It's about five structural habits that bypass the trap entirely hover before clicking, never authenticate from an email link, 2FA on everything, treat urgency as a red flag, verify through a second channel.
 | ... | ... | ... |

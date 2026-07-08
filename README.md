@@ -31,10 +31,14 @@ I'm following [MyFirstHack's](https://www.linkedin.com/company/myfirsthack/) 90-
 | 03 | Personal Security Audit | Completed my first formal 5 step security audit. Found password reuse across email accounts. Enabled 2FA on primary email. Your email is the master key to everything else you own online. |
 | 04 | Network Activity & Running Processes | Watched my laptop connect to servers I never consciously initiated. Most people use computers like magic boxes — cybersecurity people treat them as systems they can reason about. |
 | 05 | How Websites Actually Load | A single news article loaded 247 files from ~20 domains, many dedicated to analytics and tracking. Every website visit passes through multiple stages (DNS, TCP, TLS, HTTP, rendering), and each stage presents opportunities for monitoring, optimization, or attack. Understanding the web is very different from simply using it. |
-| 06 | IP addresses | every device on the internet has a public IP address | and that address leaks your rough location, your ISP, and what kind of connection you're on, instantly, to every website you visit. No clicks. No permissions. Just the act of connecting.
+| 06 | IP addresses | every device on the internet has a public IP address | and that address leaks your rough location, your ISP, and what kind of connection you're on, instantly, to every website you visit. No clicks. No permissions. Just the act of connecting. |
 | 07 | DNS | Reflection of the course
-| 08 | Passwords | A 20-character lowercase only is genuinely, mathematically stronger than an 8 character complex password like `P@ssw0rd!` Because it would take time for attackers to crack the password | Length beats complexity.
-| 09 | phishing and defending against it | The attack involved in roughly 70-90% of successful cyberattacks on earth. It's about five structural habits that bypass the trap entirely hover before clicking, never authenticate from an email link, 2FA on everything, treat urgency as a red flag, verify through a second channel.
+| 08 | Passwords | A 20-character lowercase only is genuinely, mathematically stronger than an 8 character complex password like `P@ssw0rd!` Because it would take time for attackers to crack the password | Length beats complexity. |
+| 09 | phishing and defending against it | The attack involved in roughly 70-90% of successful cyberattacks on earth. It's about five structural habits that bypass the trap entirely hover before clicking, never authenticate from an email link, 2FA on everything, treat urgency as a red flag, verify through a second channel. |
+| 10 | Personal Data & GDPR | Mapped where my personal data lives across PII, credentials, and proprietary information. | Requested my Google data export, exercising a GDPR right I'd never used before. | 
+You can't protect data if you don't know where it exists. |
+| 11 |	Network Requests & Third-Party Services |	A website that appears "loaded" can still be making hundreds of network requests to dozens of different servers. | Every third-party script and external connection increases the application's attack surface. |
+| 12 |	HTTPS, Certificates & Trust |	The HTTPS padlock only guarantees encryption and verified domain identity not that a website is safe or trustworthy. | Phishing and malware sites use HTTPS too, so always verify the domain, not just the padlock. |
 | ... | ... | ... |
 
 > Follow along on [LinkedIn](https://linkedin.com/in/oliyad-beto-108540385) where I post daily updates. If you're in cyber or also learning — let's connect.

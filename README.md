@@ -77,9 +77,10 @@ I'm following [MyFirstHack's](https://www.linkedin.com/company/myfirsthack/) 90-
 | [**E-Commerce Website**](https://olibbeto.github.io/Universal-Market/index.html) |Static, responsive e‑commerce storefront built with | HTML, CSS, and vanilla JavaScript |
 | [**Portfolio Website**](https://olibbeto.github.io/Portfolio3.0/) | Personal portfolio with particle animations, dark theme, and project showcase. | HTML, CSS, JavaScript |
 | [**Benti Fluha Spa & Hotel**](#) | Full website for a natural hot spring spa and hotel in Addis Ababa. Built with Next.js App Router, responsive design, and a luxury aesthetic. | Next.js, Tailwind CSS |
+| [**E-Learning Platform**](https://olibbeto.github.io/E-Learning-Platform---HCI-Usability-Evaluation/) | HCI-driven prototype and usability evaluation of a modern e-learning platform inspired by Moodle. | HTML, CSS, JavaScript |
 | [**Bank Management System**](#) | Desktop banking app with full CRUD operations and user management. | C#, MySQL |
 | [**Snake Game**](#) | Classic Snake game with database-backed leaderboard and persistent high scores. | Java, Swing/AWT, JDBC, MySQL |
-| [**E-Learning Platform**](https://olibbeto.github.io/E-Learning-Platform---HCI-Usability-Evaluation/) | HCI-driven prototype and usability evaluation of a modern e-learning platform inspired by Moodle. | HTML, CSS, JavaScript |
+
 
 
 

@@ -35,7 +35,7 @@ I'm following [MyFirstHack's](https://www.linkedin.com/company/myfirsthack/) 90-
 | 07 | DNS | Reflection of the course
 | 08 | Passwords | A 20-character lowercase only is genuinely, mathematically stronger than an 8 character complex password like `P@ssw0rd!` Because it would take time for attackers to crack the password | Length beats complexity. |
 | 09 | phishing and defending against it | The attack involved in roughly 70-90% of successful cyberattacks on earth. It's about five structural habits that bypass the trap entirely hover before clicking, never authenticate from an email link, 2FA on everything, treat urgency as a red flag, verify through a second channel. |
-| 10 | Personal Data & GDPR | Mapped where my personal data lives across PII, credentials, and proprietary information. | Requested my Google data export, exercising a GDPR right I'd never used before. | 
+| 10 | Personal Data & GDPR | Mapped where my personal data lives across PII, credentials, and proprietary information. | Requested my Google data export, exercising a GDPR right I'd never used before. 
 You can't protect data if you don't know where it exists. |
 | 11 |	Network Requests & Third-Party Services |	A website that appears "loaded" can still be making hundreds of network requests to dozens of different servers. | Every third-party script and external connection increases the application's attack surface. |
 | 12 |	HTTPS, Certificates & Trust |	The HTTPS padlock only guarantees encryption and verified domain identity not that a website is safe or trustworthy. | Phishing and malware sites use HTTPS too, so always verify the domain, not just the padlock. |
